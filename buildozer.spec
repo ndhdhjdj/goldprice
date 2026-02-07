@@ -1,5 +1,7 @@
 [app]
 
+allow_root = True
+
 title = 金价监控
 package.name = goldprice
 package.domain = org.goldmonitor
